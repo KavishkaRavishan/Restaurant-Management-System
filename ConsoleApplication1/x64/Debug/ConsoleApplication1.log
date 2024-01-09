@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\Users\kkrav\OneDrive\Desktop\New folder (2)\ConsoleApplication1\ConsoleApplication1.cpp(230,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kkrav\OneDrive\Desktop\New folder (2)\ConsoleApplication1\ConsoleApplication1.cpp(240,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kkrav\OneDrive\Desktop\New folder (2)\ConsoleApplication1\ConsoleApplication1.cpp(249,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kkrav\OneDrive\Desktop\New folder (2)\ConsoleApplication1\ConsoleApplication1.cpp(178,33): warning C4101: 'id': unreferenced local variable
+C:\Users\kkrav\OneDrive\Desktop\New folder (2)\ConsoleApplication1\ConsoleApplication1.cpp(204,18): warning C4101: 'choice': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\kkrav\OneDrive\Desktop\New folder (2)\x64\Debug\Restaurant Management System.exe
